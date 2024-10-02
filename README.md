@@ -1,5 +1,6 @@
 ## Hi, I'm Caroline 👋 👩‍💻 📊 
 
+<!--
 <div id="badges">
   <a href="[LinkedIn](https://www.linkedin.com/in/carolinerobinsonn/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -9,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-robinson.cb1@gmail.com-blue" alt="Email">
   </a>
 </div>
-
+-->
 <!--
 **cbellerob/cbellerob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
