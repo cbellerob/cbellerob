@@ -1,5 +1,10 @@
 ## Hi, I'm Caroline 👋 👩‍💻 📊 
 
+- I'm a **Data Science** senior at Chapman University
+- I'm currently interning at Advantest Test Solutions, Inc. as a **Data Science Intern**
+- I live in the Bay Area and Orange County! ☀️
+
+
 <!--
 <div id="badges">
   <a href="[LinkedIn](https://www.linkedin.com/in/carolinerobinsonn/)">
